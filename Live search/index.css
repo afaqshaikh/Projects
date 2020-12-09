@@ -1,0 +1,39 @@
+#search{
+    height:23px;
+    width:360px;
+    border:1px solid #092b40;
+    height: 50px;
+    padding-left: 20px;
+    margin: 0 auto;
+}
+#search[placeholder]{
+    font-size: 20px;
+}
+.heading{
+    margin: 0;
+    color: #fff !important;
+    font-family: 'Bowlby One',cursive;
+}
+i{
+    letter-spacing: 2px;
+    font-size: 14px;
+    color: #fff;
+}
+.searchbox{
+    margin-top: 47px;
+}
+.jumbotron{
+    border-radius: 0px !important;
+    background-color: #092b40;
+}
+.short{
+    width: 100px;
+    border-bottom: 2px solid #fffc ;
+}
+.random{
+    border: none;
+    border-radius: 2px;
+    background-color: #116faa;
+    padding: 5px;
+    color: #fff;
+}

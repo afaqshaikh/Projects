@@ -1,0 +1,26 @@
+body{
+    background-image: url(img.jpg);
+    background-size: cover;
+}
+.container{
+    margin-top: 60px;
+}
+.card-header{
+    border-bottom: none !important;
+
+}
+.card-body{
+    background-color:  rgba(0,0,0,.03);
+}
+.card{
+    box-shadow: 0 0 5px grey;
+}
+.heading{
+    font-weight: bold;
+    color: #adb3af;
+    text-shadow: 0 2px 3px grey;
+}
+.input-group{
+    box-shadow: 0 0 2px grey;
+    border-radius: 4px;
+}
